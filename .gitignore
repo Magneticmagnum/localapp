@@ -1,3 +1,4 @@
 node_modules
 public/scripts/atlasThemes.min.css
 public/scripts/app.js
+.idea
